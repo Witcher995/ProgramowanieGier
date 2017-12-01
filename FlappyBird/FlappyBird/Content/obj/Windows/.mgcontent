@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Filip/source/repos/FlappyBird/FlappyBird/Content/Graphics/background.png</File>
+    <File>C:/Users/Filip/source/repos/FlappyBird/FlappyBird/Content/Graphics/ground.png</File>
+    <File>C:/Users/Filip/source/repos/FlappyBird/FlappyBird/Content/Graphics/menu_buttons.png</File>
+    <File>C:/Users/Filip/source/repos/FlappyBird/FlappyBird/Content/Graphics/numbers.png</File>
+    <File>C:/Users/Filip/source/repos/FlappyBird/FlappyBird/Content/Graphics/logo.png</File>
+    <File>C:/Users/Filip/source/repos/FlappyBird/FlappyBird/Content/Graphics/bot_pipe.png</File>
+    <File>C:/Users/Filip/source/repos/FlappyBird/FlappyBird/Content/Graphics/top_pipe.png</File>
+    <File>C:/Users/Filip/source/repos/FlappyBird/FlappyBird/Content/Graphics/bird.png</File>
+    <File>C:/Users/Filip/source/repos/FlappyBird/FlappyBird/Content/Graphics/gameover.png</File>
+    <File>C:/Users/Filip/source/repos/FlappyBird/FlappyBird/Content/Graphics/getready.png</File>
+    <File>C:/Users/Filip/source/repos/FlappyBird/FlappyBird/Content/Graphics/score.png</File>
+  </SourceFiles>
+</SourceFileCollection>
